@@ -1,6 +1,6 @@
 package thread.control.test;
 
-public class SleepTest {
+public class SleepTestMain {
 
     public static void main(String[] args) {
         Thread t = new Thread(() -> {
